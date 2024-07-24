@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  height: 2000px;
+}
+
+.tab-img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
