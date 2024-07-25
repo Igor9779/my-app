@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Igor9779/my-app.git/static/css/main.4477dd9f.css",
-    "main.js": "/Igor9779/my-app.git/static/js/main.5fd060c1.js",
-    "static/js/453.ed3810f9.chunk.js": "/Igor9779/my-app.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/volga.JPG": "/Igor9779/my-app.git/static/media/volga.da93d5d9a4c733103e46.JPG",
-    "static/media/pexels-vadutskevich-13467182.jpg": "/Igor9779/my-app.git/static/media/pexels-vadutskevich-13467182.f6526d4ccb0f0dc8e54f.jpg",
-    "static/media/logo.svg": "/Igor9779/my-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Igor9779/my-app.git/index.html",
-    "main.4477dd9f.css.map": "/Igor9779/my-app.git/static/css/main.4477dd9f.css.map",
-    "main.5fd060c1.js.map": "/Igor9779/my-app.git/static/js/main.5fd060c1.js.map",
-    "453.ed3810f9.chunk.js.map": "/Igor9779/my-app.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/my-app/static/css/main.4477dd9f.css",
+    "main.js": "/my-app/static/js/main.d79ef6d0.js",
+    "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/volga.JPG": "/my-app/static/media/volga.da93d5d9a4c733103e46.JPG",
+    "static/media/pexels-vadutskevich-13467182.jpg": "/my-app/static/media/pexels-vadutskevich-13467182.f6526d4ccb0f0dc8e54f.jpg",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.4477dd9f.css.map": "/my-app/static/css/main.4477dd9f.css.map",
+    "main.d79ef6d0.js.map": "/my-app/static/js/main.d79ef6d0.js.map",
+    "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4477dd9f.css",
-    "static/js/main.5fd060c1.js"
+    "static/js/main.d79ef6d0.js"
   ]
 }
