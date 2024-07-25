@@ -44,7 +44,7 @@ export default class Header extends Component {
                 </Container>    
             </Navbar>
               
-            <Router>
+            <Router basename="/my-app">
                   <Routes>
                       <Route path='/' element={<Home />} />
                       <Route path='/about' element={<About />} />
